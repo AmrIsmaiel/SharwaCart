@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SharwaCartSystem</string>
+    <string name="price">Price: %d %s</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="remove_to_cart">Remove from cart</string>
+    <string name="cart_total_price">Cart total price: %d</string>
+    <string name="cart_total_count">Cart total count: %d</string>
+    <string name="clear_cart">Clear cart</string>
+</resources>
